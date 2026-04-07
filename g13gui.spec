@@ -44,4 +44,5 @@ handle translation of keypresses to real Linux input events by way of uinput.
 /usr/lib/udev/rules.d/91-g13.rules
 /usr/share/applications/com.theonelab.g13.*.desktop
 /usr/share/icons/hicolor/*
-
+/usr/share/dbus-1/services/com.theonelab.g13.applets.clock.service
+/usr/share/dbus-1/services/com.theonelab.g13.applets.profiles.service
